@@ -6,14 +6,14 @@ import langid
 import io
 from PIL import Image
 
-"""
-getIMGText():带语种参数的识别
-:url：图片链接
-:language：语种
-"""
-
 
 def getIMGText(url, language):
+    """
+    带语种参数的识别
+    :param url: 图片链接
+    :param language: 语种
+    :return: 识别结果
+    """
     img = Image.open(io.BytesIO(requests.get(url).content)).convert('RGB')
     imgname = str(time.time()) + ".jpg"
     img.save(imgname, mimetype='image/jpeg')
@@ -22,6 +22,11 @@ def getIMGText(url, language):
 
 
 def get_text_lang(url):
+    """
+    不带语种的识别，仅用来测试
+    :param url: 图片链接
+    :return: 识别出的文本，语种
+    """
     img = Image.open(io.BytesIO(requests.get(url).content)).convert('RGB')
     img_name = str(time.time()) + ".jpg"
     img.save(img_name, mimetype='image/jpeg')
@@ -125,20 +130,22 @@ def main():
         url = str(sys.argv[1])
         text, lang = get_text_lang(url)
         print("文本：", text)
-        print("结果", lang)
-        return text
+        print("语种", lang)
     elif len(sys.argv) == 3:
         url = str(sys.argv[1])
         lang = sys.argv[2]
         text = getIMGText(url, lang)
         print(text)
-        return text
     else:
         print("paraments error!")
         sys.exit(1)
 
 
-def run():
+def run_test():
+    """
+    测试
+    :return:
+    """
     url = str(sys.argv[1])
     langclass = langid.classify(url)
     print(langclass)
