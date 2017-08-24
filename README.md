@@ -8,6 +8,6 @@ url:images url
 language:optional(可选)  
 such as：python ocrimg.py http://localhost:8080/test11.jpg  
 ####  images preprocess 图片预处理
-cmd: python imgprocess.py img
+cmd: python imgprocess.py img  
 img：images location
     
