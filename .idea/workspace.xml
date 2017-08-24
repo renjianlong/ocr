@@ -2,157 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cda6467b-ff7b-4212-9eac-022a2f324ac6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1503037855.303583.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1503037885.8477542.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1503038046.404449.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1503038078.4787042.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/afr.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/amh.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ara.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/asm.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/aze.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/aze_cyrl.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/bel.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ben.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/bod.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/bos.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/bul.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/cat.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ceb.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ces.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/chi_sim.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/chi_tra.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/chr.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/ambigs.train" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/api_config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/bigram" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/box.train" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/box.train.stderr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/digits" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/hocr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/inter" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/kannada" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/linebox" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/logfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/lstm.train" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/makebox" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/quiet" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/rebox" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/strokewidth" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/tsv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/configs/unlv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/cym.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/dan.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/dan_frak.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/deu.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/deu_frak.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/dzo.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ell.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.bigrams" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.fold" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.lm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.lm_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.nn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.params" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.size" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.cube.word-freq" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.tesseract_cube.nn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.user-patterns" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eng.user-words" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/enm.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/epo.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/equ.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/est.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/eus.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/fas.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/fin.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/fra.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/frk.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/frm.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/gle.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/glg.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/grc.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/guj.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/hat.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/heb.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/hin.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/hrv.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/hun.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/iku.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ind.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/isl.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ita.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ita_old.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/jav.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/jpn.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kan.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kat.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kat_old.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kaz.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/khm.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kir.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kor.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/kur.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/lao.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/lat.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/lav.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/lit.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/mal.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/mar.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/mkd.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/mlt.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/msa.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/mya.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/nep.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/nld.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/nor.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ori.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/osd.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/pan.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/pdf.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/pol.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/por.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/pus.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ron.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/rus.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/san.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/sin.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/slk.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/slk_frak.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/slv.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/spa.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/spa_old.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/sqi.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/srp.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/srp_latn.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/swa.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/swe.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/syr.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tam.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tel.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tessconfigs/batch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tessconfigs/batch.nochop" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tessconfigs/matdemo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tessconfigs/msdemo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tessconfigs/nobatch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tessconfigs/segdemo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tgk.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tgl.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tha.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tir.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/tur.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/uig.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/ukr.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/urd.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/uzb.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/uzb_cyrl.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/vie.traineddata" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tessdata/yid.traineddata" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ocr/ocrimg.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ocrimg.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imgprocess.py" afterPath="$PROJECT_DIR$/ocr/imgprocess.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ocrimg.py" afterPath="$PROJECT_DIR$/ocrimg.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -163,18 +16,29 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ocr$imgprocess.coverage" NAME="imgprocess Coverage Results" MODIFIED="1503042199820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ocr$ocrimg__1_.coverage" NAME="ocrimg (1) Coverage Results" MODIFIED="1503283050736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ocr" />
     <SUITE FILE_PATH="coverage/ocr$ocrimg.coverage" NAME="ocrimg Coverage Results" MODIFIED="1503031895770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ocrimg.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ocrimg.py">
+        <entry file="file://$PROJECT_DIR$/ocr/ocrimg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="143" column="12" lean-forward="false" selection-start-line="143" selection-start-column="12" selection-end-line="143" selection-end-column="12" />
+            <state relative-caret-position="221">
+              <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
               <folding>
-                <element signature="e#23#48#0" expanded="true" />
+                <element signature="e#23#49#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="django-admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Scripts/django-admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -182,8 +46,32 @@
       <file leaf-file-name="pytesseract.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1159">
-              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="357">
+              <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding>
+                <element signature="e#181#190#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imgprocess.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ocr/imgprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding>
+                <element signature="e#22#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ocr/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -205,8 +93,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/imgprocess.py" />
-        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py" />
         <option value="$PROJECT_DIR$/ocrimg.py" />
+        <option value="$USER_HOME$/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py" />
+        <option value="$PROJECT_DIR$/ocr/imgprocess.py" />
+        <option value="$PROJECT_DIR$/ocr/ocrimg.py" />
       </list>
     </option>
   </component>
@@ -217,10 +107,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="432" />
-    <option name="y" value="67" />
-    <option name="width" value="1126" />
-    <option name="height" value="952" />
+    <option name="x" value="504" />
+    <option name="width" value="1215" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -254,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,20 +155,22 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nlp" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/xjwxb/codeanddata/zh_nlp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\PycharmProjects\ocr" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\ocr\ocr" />
       <recent name="C:\Users\lenovo\PycharmProjects\ocr" />
       <recent name="C:\Users\lenovo\PycharmProjects\ocr\testimages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\PycharmProjects\ocr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -295,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.imgprocess">
+  <component name="RunManager" selected="Python.ocrimg (1)">
     <configuration name="imgprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,7 +199,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ocr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imgprocess.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\ocr\ocr\imgprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ocrimg (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ocr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr/ocrimg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,19 +235,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ocr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocrimg.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\lenovo\PycharmProjects\ocr\ocr\ocrimg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.ocrimg" />
       <item index="1" class="java.lang.String" itemvalue="Python.imgprocess" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ocrimg (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.imgprocess" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ocrimg" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.ocrimg (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.imgprocess" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ocrimg" />
       </list>
     </recent_temporary>
   </component>
@@ -357,18 +267,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="432" y="67" width="1126" height="952" extended-state="0" />
+    <frame x="504" y="0" width="1215" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29096046" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28931364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29135802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21536796" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -388,10 +298,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280098" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29135802" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28531075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19116022" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27367505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -409,49 +319,83 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ocr/ocrimg.py</url>
+          <line>135</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ocrimg.py">
+    <entry file="file://$PROJECT_DIR$/ocr/imgprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+          <folding>
+            <element signature="e#22#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/ocrimg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="15" lean-forward="true" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding>
+            <element signature="e#23#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1503153262.9732232.jpg" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#181#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1503153364.8143024.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/ocrimg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="39" column="34" lean-forward="false" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
           <folding>
-            <element signature="e#23#48#0" expanded="true" />
+            <element signature="e#23#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1503038078.4787042.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1503037885.8477542.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1503038078.4787042.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503037885.8477542.jpg" />
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocrimg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2451">
-          <caret line="133" column="19" lean-forward="true" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
           <folding>
-            <element signature="e#23#48#0" expanded="true" />
+            <element signature="e#181#190#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imgprocess.py">
+    <entry file="file://$PROJECT_DIR$/ocr/ocrimg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="133" column="19" lean-forward="true" selection-start-line="133" selection-start-column="19" selection-end-line="133" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/imgprocess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
           <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
@@ -459,52 +403,82 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testimages/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/imgprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="69" column="21" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testimages/1.jpg" />
     <entry file="file://$PROJECT_DIR$/1503038955.028538.jpg" />
     <entry file="file://$PROJECT_DIR$/1503038652.9811945.jpg" />
     <entry file="file://$PROJECT_DIR$/1503038200.7821915.jpg" />
-    <entry file="file://$PROJECT_DIR$/1503038078.4787042.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1503037885.8477542.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1503038078.4787042.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503037885.8477542.jpg" />
     <entry file="file://$PROJECT_DIR$/1503035156.08.jpg" />
     <entry file="file://$PROJECT_DIR$/1503034359.62.jpg" />
     <entry file="file://$PROJECT_DIR$/1503035084.66.jpg" />
     <entry file="file://$PROJECT_DIR$/1503031758.3.jpg" />
-    <entry file="file://$PROJECT_DIR$/tessdata/configs/pdf">
+    <entry file="file://$PROJECT_DIR$/tessdata/configs/pdf" />
+    <entry file="file://$PROJECT_DIR$/1503153262.9732232.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503280878.81911.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503281222.568694.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503281365.5450718.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503281332.1632652.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503226069.508157.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503153390.5928063.jpg" />
+    <entry file="file://$PROJECT_DIR$/thumb.jpg" />
+    <entry file="file://$PROJECT_DIR$/1503153364.8143024.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503283673.3214822.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503284122.2737818.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503283645.2267845.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503283544.0878415.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503284694.275681.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503283780.752171.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503285778.2397475.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503295092.1058269.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503295726.5633447.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503295820.071504.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503284652.6489902.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503296652.299642.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503297032.4429934.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/1503297207.8909497.jpg" />
+    <entry file="file://$PROJECT_DIR$/ocr/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pytesseract/pytesseract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1159">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="357">
+          <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#181#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Scripts/django-admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocrimg.py">
+    <entry file="file://$PROJECT_DIR$/ocr/imgprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="143" column="12" lean-forward="false" selection-start-line="143" selection-start-column="12" selection-end-line="143" selection-end-column="12" />
+        <state relative-caret-position="306">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
-            <element signature="e#23#48#0" expanded="true" />
+            <element signature="e#22#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocr/ocrimg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+          <folding>
+            <element signature="e#23#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
